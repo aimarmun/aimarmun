@@ -9,7 +9,7 @@
 
 - 👨‍💻 Todos mis proyectos de código abierto están disponibles en [https://github.com/aimarmun](https://github.com/aimarmun)  
 
-- 💬 Puedes preguntarme sobre **Angular, React, java, c#, javascript, Typescript**, **Linux, Windows, Android, Raspberry, hardware**... cualquier cosa tecnológica que se te ocurra quizás sepa algo... acumulo más de 20 años en empresas TI.
+- 💬 Puedes preguntarme sobre **Angular, React, java, c#, javascript, Typescript**, **Linux, Windows, Android, Raspberry, hardware**... cualquier cosa tecnológica que se te ocurra quizás sepa algo... acumulo más de 20 años en empresas relacionadas con la tecnología.
 
 - 📫 Puedes escríbeme a **aimarmun@outlook.es**  
 
