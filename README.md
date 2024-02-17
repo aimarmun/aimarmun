@@ -1,5 +1,5 @@
 <h1 align="center">Hola! soy Aimarmun</h1>  
-<h3 align="center">Desarrolador fronted y Backend. Apasionado de la programación. Empece de forma autodidacta en el 2011 y he desarrollado varias aplicaciones para Android, Windows y Linux. En el 2023 desarrollé un curso FullStack en Codehouse Academy para afianzar mis conocimientos.</h3>
+<h3 align="center">Desarrolador Fronted y Backend. Apasionado de la programación. Empecé de forma autodidacta en el 2011 y he desarrollado varias aplicaciones para Android, Windows y Linux. En el 2023 desarrollé un curso FullStack en Codehouse Academy para afianzar mis conocimientos.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aimarmun&label=Profile%20views&color=0e75b6&style=flat" alt="aimarmun" /> </p>
 
